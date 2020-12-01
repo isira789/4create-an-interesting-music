@@ -1,0 +1,13 @@
+basic.forever(function () {
+    music.playMelody("C5 F F E A B G C5 ", 500)
+    music.playMelody("C5 F F E A B G C5 ", 500)
+    music.playMelody("C5 E G A B C D G ", 500)
+    music.playMelody("C5 E G A B C D G ", 500)
+    music.playMelody("C C C C C D D F ", 500)
+    music.playMelody("D D D D D D D D ", 500)
+    music.playMelody("D D D D D D D D ", 500)
+    music.playMelody("D E F D F E D C ", 500)
+    music.playMelody("C5 B B B B A G G ", 500)
+    music.playMelody("C5 B B B B A G G ", 500)
+    music.playMelody("C5 C5 C5 C5 C5 C D E ", 300)
+})
